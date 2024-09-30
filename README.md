@@ -7,15 +7,6 @@
 
 # 💻 Tech Stack
 
-## Front-End
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-
 ## Back-End
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) 
@@ -26,8 +17,12 @@
 ![Microservices](https://img.shields.io/badge/Microservices-%2300A3E2.svg?style=plastic&logo=java&logoColor=white) 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=plastic&logo=apache-kafka&logoColor=white)
 
-## Mobile
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white) 
+## DevOps
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white) 
+![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white) 
+![EC2](https://img.shields.io/badge/AWS%20EC2-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![DOCKER HUB](https://img.shields.io/badge/%20DOCKERHUB-%23232F3E.svg?style=plastic&logo=docker-docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CICD%20EC2-%23232F3E.svg?style=plastic&logo=cicd-aws&logoColor=white)
 
 ## Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
@@ -48,11 +43,17 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=plastic&logo=swagger&logoColor=black)
 
-## DevOps
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white) 
-![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white) 
-![EC2](https://img.shields.io/badge/AWS%20EC2-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![DOCKER HUB](https://img.shields.io/badge/%20DOCKERHUB-%23232F3E.svg?style=plastic&logo=docker-docker&logoColor=white)
+## Front-End
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+
+## Mobile
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white) 
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=HDV2k3&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
