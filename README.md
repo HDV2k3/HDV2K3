@@ -22,8 +22,8 @@
 ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 ![EC2](https://img.shields.io/badge/AWS%20EC2-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![DOCKER HUB](https://img.shields.io/badge/%20DOCKERHUB-%23232F3E.svg?style=plastic&logo=docker-docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/%20CICD-%23232F3E.svg?style=plastic&logo=cicd&logoColor=white)
-----------------------Demo Deployment And CI/CD With AWS Code Pipeline-------------------------------
+![CI/CD](https://img.shields.io/badge/%20CICD-%23232F3E.svg?style=plastic&logo=cicd&logoColor=white) <br/>
+------------------------------Demo Deployment And CI/CD With AWS Code Pipeline------------------------------
 http://next-room-cicd-env.eba-duriufh6.ap-southeast-2.elasticbeanstalk.com/marketing/swagger-ui/index.html#/
 
 ## Database
