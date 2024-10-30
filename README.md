@@ -24,7 +24,7 @@
 ![DOCKER HUB](https://img.shields.io/badge/%20DOCKERHUB-%23232F3E.svg?style=plastic&logo=docker-docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/%20CICD-%23232F3E.svg?style=plastic&logo=cicd&logoColor=white) <br/>
 ------------------------------Demo Deployment And CI/CD With AWS, Docker, Github Action----------------------------<br/>
-/t/t/thttp://ec2-13-54-221-254.ap-southeast-2.compute.amazonaws.com:3000/
+------------------------http://ec2-13-54-221-254.ap-southeast-2.compute.amazonaws.com:3000/------------------------
 
 ## Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
