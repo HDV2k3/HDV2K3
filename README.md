@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huỳnh Đắc Việt</h1>
-<h3 align="center"> I'm a FullStack Java Developer </h3>
+<h3 align="center"> I will become a FullStack Java Developer </h3>
 - ⚡ Fun fact: " I think, i fun "
 
 ## 🌐Socials
