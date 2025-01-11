@@ -6,10 +6,36 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huynh.viet.7771) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvietne/) 
 
 # 💻 Tech Stack
-# Working
-![C#](https://img.shields.io/badge/c#-%23ED8B00.svg?style=plastic&logo=c#&logoColor=white) 
+## Working
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+    <!-- ReadME.md -->
+    <g transform="translate(0,0)">
+        <rect x="10" y="10" width="80" height="80" rx="10" fill="#white" stroke="#333" stroke-width="2"/>
+        <text x="50" y="55" font-family="Arial" font-size="14" text-anchor="middle" fill="#333">README.md</text>
+    </g>
 
-# More 
+    <!-- C# -->
+    <g transform="translate(100,0)">
+        <rect x="10" y="10" width="80" height="80" rx="10" fill="#178600"/>
+        <text x="50" y="55" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="white">C#</text>
+    </g>
+
+    <!-- ASP.NET Core -->
+    <g transform="translate(200,0)">
+        <rect x="10" y="10" width="80" height="80" rx="10" fill="#512BD4"/>
+        <text x="50" y="45" font-family="Arial" font-size="14" text-anchor="middle" fill="white">ASP.NET</text>
+        <text x="50" y="65" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Core</text>
+    </g>
+
+    <!-- SQL Server -->
+    <g transform="translate(300,0)">
+        <rect x="10" y="10" width="80" height="80" rx="10" fill="#CC2927"/>
+        <text x="50" y="45" font-family="Arial" font-size="14" text-anchor="middle" fill="white">SQL</text>
+        <text x="50" y="65" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Server</text>
+    </g>
+</svg>
+
+## More 
 ## Back-End
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) 
