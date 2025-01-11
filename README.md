@@ -15,7 +15,9 @@
 ## More 
 ## Back-End
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=plastic&logo=.net&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=plastic&logo=apache-maven&logoColor=white) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101)
 ![Design Pattern](https://img.shields.io/badge/Design%20Pattern-%23F7DF1E.svg?style=plastic&logo=java&logoColor=white) 
