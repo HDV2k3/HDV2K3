@@ -8,6 +8,7 @@
 # 💻 Tech Stack
 ## Working
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=plastic&logo=.net&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 
