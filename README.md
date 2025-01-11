@@ -7,33 +7,9 @@
 
 # 💻 Tech Stack
 ## Working
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
-    <!-- ReadME.md -->
-    <g transform="translate(0,0)">
-        <rect x="10" y="10" width="80" height="80" rx="10" fill="#white" stroke="#333" stroke-width="2"/>
-        <text x="50" y="55" font-family="Arial" font-size="14" text-anchor="middle" fill="#333">README.md</text>
-    </g>
-
-    <!-- C# -->
-    <g transform="translate(100,0)">
-        <rect x="10" y="10" width="80" height="80" rx="10" fill="#178600"/>
-        <text x="50" y="55" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="white">C#</text>
-    </g>
-
-    <!-- ASP.NET Core -->
-    <g transform="translate(200,0)">
-        <rect x="10" y="10" width="80" height="80" rx="10" fill="#512BD4"/>
-        <text x="50" y="45" font-family="Arial" font-size="14" text-anchor="middle" fill="white">ASP.NET</text>
-        <text x="50" y="65" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Core</text>
-    </g>
-
-    <!-- SQL Server -->
-    <g transform="translate(300,0)">
-        <rect x="10" y="10" width="80" height="80" rx="10" fill="#CC2927"/>
-        <text x="50" y="45" font-family="Arial" font-size="14" text-anchor="middle" fill="white">SQL</text>
-        <text x="50" y="65" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Server</text>
-    </g>
-</svg>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 
 ## More 
 ## Back-End
